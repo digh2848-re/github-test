@@ -1,0 +1,101 @@
+﻿  AI.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\AI.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  BackGround.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\BackGround.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CAnimation.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CAnimation.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CAnimator.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CAnimator.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CBtnUI.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CBtnUI.cpp(2): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CCamera.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CCamera.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CCollider.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CCollider.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CCollisionMgr.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CCollisionMgr.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CCore.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CCore.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CEventMgr.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CEventMgr.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CGravity.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CGravity.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CGround.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CGround.cpp(2): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CIdleState.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CIdleState.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CKeyMgr.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CKeyMgr.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CLadder.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CLadder.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  Client.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\Client.cpp(275): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  CMissile.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CMissile.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CMonFactory.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CMonFactory.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CMonster.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CMonster.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CMouseUI.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CMouseUI.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CObject.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CObject.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CPanelUI.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CPanelUI.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CPathMgr.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CPathMgr.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CPlayer.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CPlayer.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CRes.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CRes.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CResMgr.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CResMgr.cpp(72): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  CRigidBody.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CRigidBody.cpp(5): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CScene.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CScene.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CSceneMgr.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CSceneMgr.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CScene_Start.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CScene_Start.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CScene_Tool.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CScene_Tool.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CSound.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CSound.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CState.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CState.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CTexture.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CTexture.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CTile.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CTile.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CTimeMgr.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CTimeMgr.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CTraceState.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CTraceState.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  CUI.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CUI.cpp(237): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  CUIMgr.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\CUIMgr.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  DamageEffect.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\DamageEffect.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  FixedUI.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\FixedUI.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  func.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\func.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  Item.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\Item.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  MainUI.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\MainUI.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  Map.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\Map.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  SelectGDI.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\SelectGDI.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  Skill.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\Skill.cpp(1): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  SkillMotion.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\SkillMotion.cpp(2): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'Debug\Client.pch': No such file or directory
+  코드를 생성하고 있습니다...

@@ -1,0 +1,28 @@
+﻿  unity_1U11KQJF14JVEV7U.cpp
+  unity_UF49B4A1C2K8H7R7.cpp
+C:\Users\digh2\source\repos\WinApiLecture\Client\struct.h(19): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_1U11KQJF14JVEV7U.cpp)
+C:\Users\digh2\source\repos\WinApiLecture\Client\struct.h(19): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_UF49B4A1C2K8H7R7.cpp)
+C:\Users\digh2\source\repos\WinApiLecture\Client\CAnimation.cpp(20): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_1U11KQJF14JVEV7U.cpp)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\digh2\source\repos\WinApiLecture\Client\CBtnUI.cpp(163): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_1U11KQJF14JVEV7U.cpp)
+C:\Users\digh2\source\repos\WinApiLecture\Client\CBtnUI.cpp(162): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_1U11KQJF14JVEV7U.cpp)
+C:\Users\digh2\source\repos\WinApiLecture\Client\CBtnUI.cpp(156): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_1U11KQJF14JVEV7U.cpp)
+C:\Users\digh2\source\repos\WinApiLecture\Client\CBtnUI.cpp(155): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_1U11KQJF14JVEV7U.cpp)
+C:\Users\digh2\source\repos\WinApiLecture\Client\FixedUI.cpp(108): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_UF49B4A1C2K8H7R7.cpp)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\digh2\source\repos\WinApiLecture\Client\FixedUI.cpp(135): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_UF49B4A1C2K8H7R7.cpp)
+C:\Users\digh2\source\repos\WinApiLecture\Client\FixedUI.cpp(134): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_UF49B4A1C2K8H7R7.cpp)
+C:\Users\digh2\source\repos\WinApiLecture\Client\FixedUI.cpp(128): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_UF49B4A1C2K8H7R7.cpp)
+C:\Users\digh2\source\repos\WinApiLecture\Client\FixedUI.cpp(127): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_UF49B4A1C2K8H7R7.cpp)
+C:\Users\digh2\source\repos\WinApiLecture\Client\CCore.cpp(238): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_1U11KQJF14JVEV7U.cpp)
+C:\Users\digh2\source\repos\WinApiLecture\Client\CCore.cpp(238): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 C:\Users\digh2\source\repos\WinApiLecture\Client\Unity\unity_1U11KQJF14JVEV7U.cpp)
+  코드를 생성하고 있습니다.
+  58 of 1672 functions ( 3.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    27 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+unity_1U11KQJF14JVEV7U.obj : warning LNK4020: 'c:\users\digh2\source\repos\winapilecture\client\x64\release\vc142.pdb'의 형식 레코드가 손상되었습니다. 디버거에서 일부 기호와 형식에 액세스할 수 없습니다.
+unity_B9NC3D9FL26WPQV3.obj : warning LNK4020: 'c:\users\digh2\source\repos\winapilecture\client\x64\release\vc142.pdb'의 형식 레코드가 손상되었습니다. 디버거에서 일부 기호와 형식에 액세스할 수 없습니다.
+unity_UF49B4A1C2K8H7R7.obj : warning LNK4020: 'c:\users\digh2\source\repos\winapilecture\client\x64\release\vc142.pdb'의 형식 레코드가 손상되었습니다. 디버거에서 일부 기호와 형식에 액세스할 수 없습니다.
+unity_QU6SSYF0FAMMTSWL.obj : warning LNK4020: 'c:\users\digh2\source\repos\winapilecture\client\x64\release\vc142.pdb'의 형식 레코드가 손상되었습니다. 디버거에서 일부 기호와 형식에 액세스할 수 없습니다.
+  Client.vcxproj -> C:\Users\digh2\source\repos\WinApiLecture\Output\bin\Client.exe
